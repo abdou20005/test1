@@ -1,5 +1,5 @@
 import './App.css'
-import Title from './title'
+import Title from './Title'
 import './index.css'
 function App() {
 
